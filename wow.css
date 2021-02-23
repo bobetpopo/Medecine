@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+    color:rgb(31, 0, 0);
+    font-size: 20px;
+    margin-top: 75px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 75px;
+    background-image: url('https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/article/2020/08/19/precision-medicine-trials-call-for-specialized-approach/11688103-1-eng-GB/Precision-medicine-trials-call-for-specialized-approach_wrbm_large.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+
+p {
+  text-indent: 50px;
+}
+
